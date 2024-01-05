@@ -1,0 +1,14 @@
+C:\Users\emrea\Desktop\donguler-for-loap\bin\Debug\net8.0\donguler-for-loap.exe
+C:\Users\emrea\Desktop\donguler-for-loap\bin\Debug\net8.0\donguler-for-loap.deps.json
+C:\Users\emrea\Desktop\donguler-for-loap\bin\Debug\net8.0\donguler-for-loap.runtimeconfig.json
+C:\Users\emrea\Desktop\donguler-for-loap\bin\Debug\net8.0\donguler-for-loap.dll
+C:\Users\emrea\Desktop\donguler-for-loap\bin\Debug\net8.0\donguler-for-loap.pdb
+C:\Users\emrea\Desktop\donguler-for-loap\obj\Debug\net8.0\donguler-for-loap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\donguler-for-loap\obj\Debug\net8.0\donguler-for-loap.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\donguler-for-loap\obj\Debug\net8.0\donguler-for-loap.AssemblyInfo.cs
+C:\Users\emrea\Desktop\donguler-for-loap\obj\Debug\net8.0\donguler-for-loap.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\donguler-for-loap\obj\Debug\net8.0\donguler-for-loap.dll
+C:\Users\emrea\Desktop\donguler-for-loap\obj\Debug\net8.0\refint\donguler-for-loap.dll
+C:\Users\emrea\Desktop\donguler-for-loap\obj\Debug\net8.0\donguler-for-loap.pdb
+C:\Users\emrea\Desktop\donguler-for-loap\obj\Debug\net8.0\donguler-for-loap.genruntimeconfig.cache
+C:\Users\emrea\Desktop\donguler-for-loap\obj\Debug\net8.0\ref\donguler-for-loap.dll
