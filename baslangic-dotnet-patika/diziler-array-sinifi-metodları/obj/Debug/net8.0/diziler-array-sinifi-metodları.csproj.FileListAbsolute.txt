@@ -1,0 +1,14 @@
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\bin\Debug\net8.0\diziler-array-sinifi-metodları.exe
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\bin\Debug\net8.0\diziler-array-sinifi-metodları.deps.json
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\bin\Debug\net8.0\diziler-array-sinifi-metodları.runtimeconfig.json
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\bin\Debug\net8.0\diziler-array-sinifi-metodları.dll
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\bin\Debug\net8.0\diziler-array-sinifi-metodları.pdb
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\obj\Debug\net8.0\diziler-array-sinifi-metodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\obj\Debug\net8.0\diziler-array-sinifi-metodları.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\obj\Debug\net8.0\diziler-array-sinifi-metodları.AssemblyInfo.cs
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\obj\Debug\net8.0\diziler-array-sinifi-metodları.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\obj\Debug\net8.0\diziler-array-sinifi-metodları.dll
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\obj\Debug\net8.0\refint\diziler-array-sinifi-metodları.dll
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\obj\Debug\net8.0\diziler-array-sinifi-metodları.pdb
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\obj\Debug\net8.0\diziler-array-sinifi-metodları.genruntimeconfig.cache
+C:\Users\emrea\Desktop\diziler-array-sinifi-metodları\obj\Debug\net8.0\ref\diziler-array-sinifi-metodları.dll
