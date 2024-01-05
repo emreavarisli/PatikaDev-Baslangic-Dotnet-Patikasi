@@ -1,0 +1,14 @@
+C:\Users\emrea\Desktop\recursive_extension_metotlar\bin\Debug\net8.0\recursive_extension_metotlar.exe
+C:\Users\emrea\Desktop\recursive_extension_metotlar\bin\Debug\net8.0\recursive_extension_metotlar.deps.json
+C:\Users\emrea\Desktop\recursive_extension_metotlar\bin\Debug\net8.0\recursive_extension_metotlar.runtimeconfig.json
+C:\Users\emrea\Desktop\recursive_extension_metotlar\bin\Debug\net8.0\recursive_extension_metotlar.dll
+C:\Users\emrea\Desktop\recursive_extension_metotlar\bin\Debug\net8.0\recursive_extension_metotlar.pdb
+C:\Users\emrea\Desktop\recursive_extension_metotlar\obj\Debug\net8.0\recursive_extension_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\recursive_extension_metotlar\obj\Debug\net8.0\recursive_extension_metotlar.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\recursive_extension_metotlar\obj\Debug\net8.0\recursive_extension_metotlar.AssemblyInfo.cs
+C:\Users\emrea\Desktop\recursive_extension_metotlar\obj\Debug\net8.0\recursive_extension_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\recursive_extension_metotlar\obj\Debug\net8.0\recursive_extension_metotlar.dll
+C:\Users\emrea\Desktop\recursive_extension_metotlar\obj\Debug\net8.0\refint\recursive_extension_metotlar.dll
+C:\Users\emrea\Desktop\recursive_extension_metotlar\obj\Debug\net8.0\recursive_extension_metotlar.pdb
+C:\Users\emrea\Desktop\recursive_extension_metotlar\obj\Debug\net8.0\recursive_extension_metotlar.genruntimeconfig.cache
+C:\Users\emrea\Desktop\recursive_extension_metotlar\obj\Debug\net8.0\ref\recursive_extension_metotlar.dll
