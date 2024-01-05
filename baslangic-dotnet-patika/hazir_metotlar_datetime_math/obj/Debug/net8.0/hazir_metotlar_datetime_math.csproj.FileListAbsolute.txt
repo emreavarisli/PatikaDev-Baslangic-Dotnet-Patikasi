@@ -1,0 +1,14 @@
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\bin\Debug\net8.0\hazir_metotlar_datetime_math.exe
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\bin\Debug\net8.0\hazir_metotlar_datetime_math.deps.json
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\bin\Debug\net8.0\hazir_metotlar_datetime_math.runtimeconfig.json
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\bin\Debug\net8.0\hazir_metotlar_datetime_math.dll
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\bin\Debug\net8.0\hazir_metotlar_datetime_math.pdb
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\obj\Debug\net8.0\hazir_metotlar_datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\obj\Debug\net8.0\hazir_metotlar_datetime_math.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\obj\Debug\net8.0\hazir_metotlar_datetime_math.AssemblyInfo.cs
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\obj\Debug\net8.0\hazir_metotlar_datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\obj\Debug\net8.0\hazir_metotlar_datetime_math.dll
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\obj\Debug\net8.0\refint\hazir_metotlar_datetime_math.dll
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\obj\Debug\net8.0\hazir_metotlar_datetime_math.pdb
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\obj\Debug\net8.0\hazir_metotlar_datetime_math.genruntimeconfig.cache
+C:\Users\emrea\Desktop\hazir_metotlar_datetime_math\obj\Debug\net8.0\ref\hazir_metotlar_datetime_math.dll
