@@ -1,0 +1,14 @@
+C:\Users\emrea\Desktop\sinif-kavrami\bin\Debug\net8.0\sinif-kavrami.exe
+C:\Users\emrea\Desktop\sinif-kavrami\bin\Debug\net8.0\sinif-kavrami.deps.json
+C:\Users\emrea\Desktop\sinif-kavrami\bin\Debug\net8.0\sinif-kavrami.runtimeconfig.json
+C:\Users\emrea\Desktop\sinif-kavrami\bin\Debug\net8.0\sinif-kavrami.dll
+C:\Users\emrea\Desktop\sinif-kavrami\bin\Debug\net8.0\sinif-kavrami.pdb
+C:\Users\emrea\Desktop\sinif-kavrami\obj\Debug\net8.0\sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\sinif-kavrami\obj\Debug\net8.0\sinif-kavrami.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\sinif-kavrami\obj\Debug\net8.0\sinif-kavrami.AssemblyInfo.cs
+C:\Users\emrea\Desktop\sinif-kavrami\obj\Debug\net8.0\sinif-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\sinif-kavrami\obj\Debug\net8.0\sinif-kavrami.dll
+C:\Users\emrea\Desktop\sinif-kavrami\obj\Debug\net8.0\refint\sinif-kavrami.dll
+C:\Users\emrea\Desktop\sinif-kavrami\obj\Debug\net8.0\sinif-kavrami.pdb
+C:\Users\emrea\Desktop\sinif-kavrami\obj\Debug\net8.0\sinif-kavrami.genruntimeconfig.cache
+C:\Users\emrea\Desktop\sinif-kavrami\obj\Debug\net8.0\ref\sinif-kavrami.dll
