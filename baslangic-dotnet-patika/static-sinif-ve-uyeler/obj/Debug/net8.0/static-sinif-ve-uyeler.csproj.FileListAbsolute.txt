@@ -1,0 +1,14 @@
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\bin\Debug\net8.0\static-sinif-ve-uyeler.exe
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\bin\Debug\net8.0\static-sinif-ve-uyeler.deps.json
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\bin\Debug\net8.0\static-sinif-ve-uyeler.runtimeconfig.json
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\bin\Debug\net8.0\static-sinif-ve-uyeler.dll
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\bin\Debug\net8.0\static-sinif-ve-uyeler.pdb
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\obj\Debug\net8.0\static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\obj\Debug\net8.0\static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\obj\Debug\net8.0\static-sinif-ve-uyeler.AssemblyInfo.cs
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\obj\Debug\net8.0\static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\obj\Debug\net8.0\static-sinif-ve-uyeler.dll
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\obj\Debug\net8.0\refint\static-sinif-ve-uyeler.dll
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\obj\Debug\net8.0\static-sinif-ve-uyeler.pdb
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\obj\Debug\net8.0\static-sinif-ve-uyeler.genruntimeconfig.cache
+C:\Users\emrea\Desktop\static-sinif-ve-uyeler\obj\Debug\net8.0\ref\static-sinif-ve-uyeler.dll
