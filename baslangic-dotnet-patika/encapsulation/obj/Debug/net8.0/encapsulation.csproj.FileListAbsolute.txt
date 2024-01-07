@@ -1,0 +1,14 @@
+C:\Users\emrea\Desktop\encapsulation\bin\Debug\net8.0\encapsulation.exe
+C:\Users\emrea\Desktop\encapsulation\bin\Debug\net8.0\encapsulation.deps.json
+C:\Users\emrea\Desktop\encapsulation\bin\Debug\net8.0\encapsulation.runtimeconfig.json
+C:\Users\emrea\Desktop\encapsulation\bin\Debug\net8.0\encapsulation.dll
+C:\Users\emrea\Desktop\encapsulation\bin\Debug\net8.0\encapsulation.pdb
+C:\Users\emrea\Desktop\encapsulation\obj\Debug\net8.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\encapsulation\obj\Debug\net8.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\encapsulation\obj\Debug\net8.0\encapsulation.AssemblyInfo.cs
+C:\Users\emrea\Desktop\encapsulation\obj\Debug\net8.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\encapsulation\obj\Debug\net8.0\encapsulation.dll
+C:\Users\emrea\Desktop\encapsulation\obj\Debug\net8.0\refint\encapsulation.dll
+C:\Users\emrea\Desktop\encapsulation\obj\Debug\net8.0\encapsulation.pdb
+C:\Users\emrea\Desktop\encapsulation\obj\Debug\net8.0\encapsulation.genruntimeconfig.cache
+C:\Users\emrea\Desktop\encapsulation\obj\Debug\net8.0\ref\encapsulation.dll
