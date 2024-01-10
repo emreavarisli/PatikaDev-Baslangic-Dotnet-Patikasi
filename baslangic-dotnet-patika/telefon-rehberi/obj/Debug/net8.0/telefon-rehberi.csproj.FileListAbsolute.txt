@@ -1,0 +1,4 @@
+C:\Users\emrea\Desktop\telefon-rehberi\obj\Debug\net8.0\telefon-rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\telefon-rehberi\obj\Debug\net8.0\telefon-rehberi.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\telefon-rehberi\obj\Debug\net8.0\telefon-rehberi.AssemblyInfo.cs
+C:\Users\emrea\Desktop\telefon-rehberi\obj\Debug\net8.0\telefon-rehberi.csproj.CoreCompileInputs.cache
