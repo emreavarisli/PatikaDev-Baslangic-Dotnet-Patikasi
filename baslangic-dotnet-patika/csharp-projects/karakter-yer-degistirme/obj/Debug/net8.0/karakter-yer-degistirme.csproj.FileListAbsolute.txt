@@ -1,0 +1,14 @@
+C:\Users\emrea\Desktop\karakter-yer-degistirme\bin\Debug\net8.0\karakter-yer-degistirme.exe
+C:\Users\emrea\Desktop\karakter-yer-degistirme\bin\Debug\net8.0\karakter-yer-degistirme.deps.json
+C:\Users\emrea\Desktop\karakter-yer-degistirme\bin\Debug\net8.0\karakter-yer-degistirme.runtimeconfig.json
+C:\Users\emrea\Desktop\karakter-yer-degistirme\bin\Debug\net8.0\karakter-yer-degistirme.dll
+C:\Users\emrea\Desktop\karakter-yer-degistirme\bin\Debug\net8.0\karakter-yer-degistirme.pdb
+C:\Users\emrea\Desktop\karakter-yer-degistirme\obj\Debug\net8.0\karakter-yer-degistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\karakter-yer-degistirme\obj\Debug\net8.0\karakter-yer-degistirme.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\karakter-yer-degistirme\obj\Debug\net8.0\karakter-yer-degistirme.AssemblyInfo.cs
+C:\Users\emrea\Desktop\karakter-yer-degistirme\obj\Debug\net8.0\karakter-yer-degistirme.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\karakter-yer-degistirme\obj\Debug\net8.0\karakter-yer-degistirme.dll
+C:\Users\emrea\Desktop\karakter-yer-degistirme\obj\Debug\net8.0\refint\karakter-yer-degistirme.dll
+C:\Users\emrea\Desktop\karakter-yer-degistirme\obj\Debug\net8.0\karakter-yer-degistirme.pdb
+C:\Users\emrea\Desktop\karakter-yer-degistirme\obj\Debug\net8.0\karakter-yer-degistirme.genruntimeconfig.cache
+C:\Users\emrea\Desktop\karakter-yer-degistirme\obj\Debug\net8.0\ref\karakter-yer-degistirme.dll
