@@ -1,0 +1,14 @@
+C:\Users\emrea\Desktop\ucgen-cizme\bin\Debug\net8.0\ucgen-cizme.exe
+C:\Users\emrea\Desktop\ucgen-cizme\bin\Debug\net8.0\ucgen-cizme.deps.json
+C:\Users\emrea\Desktop\ucgen-cizme\bin\Debug\net8.0\ucgen-cizme.runtimeconfig.json
+C:\Users\emrea\Desktop\ucgen-cizme\bin\Debug\net8.0\ucgen-cizme.dll
+C:\Users\emrea\Desktop\ucgen-cizme\bin\Debug\net8.0\ucgen-cizme.pdb
+C:\Users\emrea\Desktop\ucgen-cizme\obj\Debug\net8.0\ucgen-cizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\ucgen-cizme\obj\Debug\net8.0\ucgen-cizme.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\ucgen-cizme\obj\Debug\net8.0\ucgen-cizme.AssemblyInfo.cs
+C:\Users\emrea\Desktop\ucgen-cizme\obj\Debug\net8.0\ucgen-cizme.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\ucgen-cizme\obj\Debug\net8.0\ucgen-cizme.dll
+C:\Users\emrea\Desktop\ucgen-cizme\obj\Debug\net8.0\refint\ucgen-cizme.dll
+C:\Users\emrea\Desktop\ucgen-cizme\obj\Debug\net8.0\ucgen-cizme.pdb
+C:\Users\emrea\Desktop\ucgen-cizme\obj\Debug\net8.0\ucgen-cizme.genruntimeconfig.cache
+C:\Users\emrea\Desktop\ucgen-cizme\obj\Debug\net8.0\ref\ucgen-cizme.dll
