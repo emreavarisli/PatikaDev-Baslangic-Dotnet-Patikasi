@@ -1,0 +1,14 @@
+C:\Users\emrea\Desktop\daire-cizme\bin\Debug\net8.0\daire-cizme.exe
+C:\Users\emrea\Desktop\daire-cizme\bin\Debug\net8.0\daire-cizme.deps.json
+C:\Users\emrea\Desktop\daire-cizme\bin\Debug\net8.0\daire-cizme.runtimeconfig.json
+C:\Users\emrea\Desktop\daire-cizme\bin\Debug\net8.0\daire-cizme.dll
+C:\Users\emrea\Desktop\daire-cizme\bin\Debug\net8.0\daire-cizme.pdb
+C:\Users\emrea\Desktop\daire-cizme\obj\Debug\net8.0\daire-cizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\daire-cizme\obj\Debug\net8.0\daire-cizme.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\daire-cizme\obj\Debug\net8.0\daire-cizme.AssemblyInfo.cs
+C:\Users\emrea\Desktop\daire-cizme\obj\Debug\net8.0\daire-cizme.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\daire-cizme\obj\Debug\net8.0\daire-cizme.dll
+C:\Users\emrea\Desktop\daire-cizme\obj\Debug\net8.0\refint\daire-cizme.dll
+C:\Users\emrea\Desktop\daire-cizme\obj\Debug\net8.0\daire-cizme.pdb
+C:\Users\emrea\Desktop\daire-cizme\obj\Debug\net8.0\daire-cizme.genruntimeconfig.cache
+C:\Users\emrea\Desktop\daire-cizme\obj\Debug\net8.0\ref\daire-cizme.dll
