@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "3k3t9q560Dq9imKFzb6o8UGjpEqn7vSeLIbc8whwyr0blxj0zkdMISGRqnxFUHe0iaLqeLLWNXTmNXqH5ZX3BA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\emrea\\Desktop\\barkod-okuyucu\\barkod-okuyucu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emrea\\.nuget\\packages\\zxing\\2.1.1\\zxing.2.1.1.nupkg.sha512",
+    "C:\\Users\\emrea\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'ZXing 2.1.1' paketi, proje hedef çerçevesi 'net8.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "ZXing",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
